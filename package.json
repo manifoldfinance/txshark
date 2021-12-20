@@ -1,7 +1,7 @@
 {
   "name": "tx-decode",
   "version": "1.0.0",
- "private": true,
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,11 @@
   "homepage": "https://github.com/manifoldfinance/txshark#readme",
   "dependencies": {
     "@truffle/codec": "^0.11.21"
+  },
+  "devDependencies": {
+    "@types/node": "^14",
+    "eslint": "^8.5.0",
+    "eslint-plugin-react": "^7.27.1",
+    "prettier": "^2.5.1"
   }
 }
