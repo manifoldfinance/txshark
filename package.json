@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/manifoldfinance/txshark#readme",
   "dependencies": {
-    "@truffle/codec": "^0.11.21"
+    "@truffle/codec": "^0.11.21",
+    "browser-util-inspect": "^0.2.0"
   },
   "devDependencies": {
     "@types/node": "^14",
